@@ -1,4 +1,4 @@
-module github.com/mholt/certmagic
+module github.com/plancks-cloud/certmagic
 
 require (
 	github.com/klauspost/cpuid v1.2.0
